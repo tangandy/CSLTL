@@ -23,17 +23,18 @@ If you desire additional functionality, you will need additional prerequisites. 
 ### Setting up Basic Functionality
 
 1. Clone this repository.
-2. Install the requirements. Run `pip install -r requirements.txt` in a virtual environment.
-3. Set your steam key as an environment variable. In bash, this can be done with `export STEAM_KEY=YOUR_KEY_HERE`, and in anaconda for windows you can use `set STEAM_KEY=YOUR_KEY_HERE`.
-4. TangyBot can be directly invoked from the command line, via `python cli.py [args]`. Try a basic query like `python cli.py lookup 839` to look up the University of Michigan.
+2. Set up a [virtual environment](https://eecs485staff.github.io/p1-insta485-static/setup_virtual_env.html). You do not need HTML5 Validator.
+3. Install the requirements. Run `pip install -r requirements.txt`.
+4. Set your steam key as an environment variable. In bash, this can be done with `export STEAM_KEY=YOUR_KEY_HERE`, and in anaconda for windows you can use `set STEAM_KEY=YOUR_KEY_HERE`.
+5. TangyBot can be directly invoked from the command line, via `python cli.py [args]`. Try a basic query like `python cli.py lookup 839` to look up the University of Michigan.
 
 #### Troubleshooting
 
 Common build issues:
-* `error: invalid command 'bdist_wheel'`: `pip install wheel` will install the command
-* `x86_86-linux-gnu-gcc exited with a status of 1`: Usually GCC is not installed or cannot be invoked with `x86_64-linux-gnu-gcc`. `sudo apt install gcc` should fix it
-* `pyconfig.h not found`: GCC cannot find python files. Usually can be fixed with `sudo apt install python3-dev`
-* `libxml/xmlversion.h not found`: GCC cannot find libxml files. Usually can be fixed with `sudo apt install libxml2-dev libxslt1-dev`
+* `error: invalid command 'bdist_wheel'`: `pip install wheel` will install the command.
+* `x86_86-linux-gnu-gcc exited with a status of 1`: Usually GCC is not installed or cannot be invoked with `x86_64-linux-gnu-gcc`. `sudo apt install gcc` should fix it.
+* `pyconfig.h not found`: GCC cannot find python files. Usually can be fixed with `sudo apt install python3-dev`.
+* `libxml/xmlversion.h not found`: GCC cannot find libxml files. Usually can be fixed with `sudo apt install libxml2-dev libxslt1-dev`.
 
 ### Running in Discord
 
