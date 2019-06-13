@@ -286,6 +286,8 @@ class TangyBotBackend:
         res = await func_to_call(username=username, **vars(args))
         return res
 
+    # LOOKUP ------------------------------------------------------------------
+
     async def lookup(self, last, team_number, username="user", **_):
         """
         Perform a team lookup based on passed in arguments.
@@ -401,6 +403,8 @@ class TangyBotBackend:
                         players=merged_dict)
         except HTTPError as err:
             raise TangyBotError("_lookup: " + err.msg)
+
+    # PROFILE -----------------------------------------------------------------
 
     async def profile(self, last, profiles, num_games, max_heroes,
                       min_games, tourney_only, username="user", **_):
@@ -553,6 +557,8 @@ class TangyBotBackend:
                       key=lambda item: item['games'],
                       reverse=True)[:max_heroes]
 
+    # STALK -------------------------------------------------------------------
+
     async def stalk(self, users, username="user", **_):
         """
         Get the session information for the following users.
@@ -595,6 +601,39 @@ class TangyBotBackend:
         except KeyError as err:
             raise TangyBotError("Session data not found for user " +
                                 str(err.args[0]))
+
+    # SEARCH ------------------------------------------------------------------
+
+    async def search(self, query, username="user", **_):
+        """
+        TODO
+        Perform a lookup in the teams database.
+
+        Parameters
+        ----------
+        query: str
+            Search string
+
+        Raises
+        ------
+        TangyBotError
+            On a search error, i.e. team was not found
+
+        Returns
+        -------
+        data: dict
+            Dictionary with filtered search results. The specific 
+                format is:
+
+            uni_name: str, the university's name
+
+            team_name: str, the team's name
+
+            team_number: int, the team's number
+
+            team_url: str, the team's CSL page
+
+        """
 
 
 async def main(team):

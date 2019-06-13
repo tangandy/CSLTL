@@ -127,18 +127,22 @@ class TangyBotArgParse:
                                                               "Lookup")
         self.subparsers = self.arg_parser.add_subparsers()
 
+        # LOOKUP --------------------------------------------------------------
+
         self.lookup_parser = self.subparsers.add_parser("lookup",
                                                         help="Look up a team")
         self.lookup_parser.set_defaults(command='lookup')
+
         self.lookup_group = self.lookup_parser.add_mutually_exclusive_group(
             required=True)
-
         self.lookup_group.add_argument('team_number', nargs="?", default="",
                                        help="The CSL team number or url to "
                                             "look up")
         self.lookup_group.add_argument("-l", "--last", action="store_true",
                                        help="Use the last team that was "
                                             "looked up by you")
+
+        # PROFILE -------------------------------------------------------------
 
         self.profile_parser = self.subparsers.add_parser("profile",
                                                          help="Get detailed "
@@ -181,6 +185,8 @@ class TangyBotArgParse:
                                          help="Set if only lobby games are "
                                               "desired")
 
+        # STALK ---------------------------------------------------------------
+
         # Session information
         self.stalk_parser = self.subparsers.add_parser("stalk",
                                                        help="Access "
@@ -191,6 +197,17 @@ class TangyBotArgParse:
         self.stalk_parser.add_argument("users", nargs="*",
                                        help="User names to get session "
                                             "information of")
+
+        # SEARCH --------------------------------------------------------------
+
+        self.search_parser = self.subparsers.add_parser("search", 
+                                                       help="Lookup team number")
+        self.search_parser.setdefaults(command="search")
+
+        self.search_parser.add_argument("query", nargs="*",
+                                        help="Search string")
+
+        # ---------------------------------------------------------------------
 
         self.parser_list = [self.arg_parser, self.lookup_parser,
                             self.profile_parser, self.stalk_parser]
