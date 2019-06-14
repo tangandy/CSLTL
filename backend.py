@@ -622,16 +622,10 @@ class TangyBotBackend:
         Returns
         -------
         data: dict
-            Dictionary with filtered search results. The specific 
-                format is:
+            Dictionary with filtered search results. The specific format is:
 
-            uni_name: str, the university's name
-
-            team_name: str, the team's name
-
-            team_number: int, the team's number
-
-            team_url: str, the team's CSL page
+            players: dict, uni_name -> dict of values
+                The dict of values includes team_name, team_url, and team_id.
 
         """
 
