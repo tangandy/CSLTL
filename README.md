@@ -1,6 +1,8 @@
 # TODO:
 
-* Fix error handling
+* Fix exception handling
+
+* Fix error handling / sanitizing inputs
 
 * Add functionality to lookup 
 
