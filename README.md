@@ -1,3 +1,13 @@
+# TODO:
+
+* Fix error handling
+
+* Add functionality to lookup 
+
+* Add profile filters (patch)
+
+* Update README instructions 
+
 # CSLTL (TangyBot)
 
 A bot that looks up teams and players for Collegiate Starleague Dota2 and provides draft information.
