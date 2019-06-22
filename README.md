@@ -10,6 +10,8 @@
 
 * Update README instructions 
 
+* Basic testing
+
 * Refactor / clean up code
 
 # CSLTL (TangyBot)
