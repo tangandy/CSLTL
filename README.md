@@ -1,5 +1,7 @@
 # TODO:
 
+* Invite link
+
 * Fix exception handling
 
 * Fix error handling / sanitizing inputs (if team_number > 30000 or <1 throw error)
