@@ -2,7 +2,7 @@
 
 * Fix exception handling
 
-* Fix error handling / sanitizing inputs
+* Fix error handling / sanitizing inputs (if team_number > 30000 or <1 throw error)
 
 * Add functionality to lookup. Determines if input is a team_number, url, or query. If query, return search results (uni_name, team_name, team_url, team_number). If only one result, perform a lookup on that result.
 
