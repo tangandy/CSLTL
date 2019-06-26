@@ -1,186 +1,628 @@
-{  
-   "Carleton Ravens Dota":{  
+{
+   "Carleton Ravens Dota":{
       "team_uni":"Carleton University",
-      "team_num":"4510"
+      "team_num":"4510",
+      "players":{
+         "An":"STEAM_1:1:116945727",
+         "Zore":"STEAM_0:1:46579726",
+         "DSbro":"STEAM_0:0:42445343",
+         "Jade":"STEAM_0:0:56013385",
+         "malteezy":"STEAM_0:0:66664172"
+      }
    },
-   "Uoft Underdogs":{  
+   "Uoft Underdogs":{
       "team_uni":"University of Toronto",
-      "team_num":"6640"
+      "team_num":"6640",
+      "players":{
+         "ggw":"STEAM_0:0:68152754",
+         "IceTurtle":"STEAM_0:1:90547620",
+         "pzd":"STEAM_0:1:57602661",
+         "Oakenshield":"STEAM_0:0:58458752",
+         "synphonics":"STEAM_0:1:42893299",
+         "yamadeh":"STEAM_0:0:69304338",
+         "zululer":"STEAM_0:0:98291717"
+      }
    },
-   "MCMASTER DOTA ":{  
+   "MCMASTER DOTA ":{
       "team_uni":"McMaster University",
-      "team_num":"6704"
+      "team_num":"6704",
+      "players":{
+         "luki luki":"STEAM_0:1:58655937",
+         "High End":"STEAM_0:0:51698252",
+         "Brincity":"STEAM_0:1:49701785",
+         "December":"STEAM_0:0:61368969",
+         "Nonam-":"STEAM_0:1:108372223",
+         "zylborn1994":"STEAM_0:0:68879630",
+         "Zard7":"STEAM_0:0:53704315"
+      }
    },
-   "Ryerson Esports Dota ":{  
+   "Ryerson Esports Dota ":{
       "team_uni":"Ryerson University",
-      "team_num":"7390"
+      "team_num":"7390",
+      "players":{
+         "Moyada":"STEAM_0:1:50198281",
+         "DEEZY":"STEAM_0:0:121877824",
+         "Tim":"STEAM_1:1:72256427",
+         "Twisted_Lloyd":"STEAM_0:1:40235006",
+         "razemenot":"STEAM_0:1:103310763",
+         "JunhaoFei":"STEAM_0:1:69223858",
+         "ICEMELON":"STEAM_0:1:107126672"
+      }
    },
-   "Western University Mustang":{  
+   "Western University Mustang":{
       "team_uni":"Western University",
-      "team_num":"5585"
+      "team_num":"5585",
+      "players":{
+         "davidbbt1":"STEAM_0:0:65844557",
+         "DeVie":"STEAM_0:0:76561198351952848",
+         "Yyl043":"STEAM_0:0:303175085",
+         "FiendCO":"STEAM_0:0:76561198096919004",
+         "zch1996":"STEAM_0:0:348963720",
+         "Richardwang":"STEAM_0:0:76561198184468222"
+      }
    },
-   "Gaels":{  
+   "Gaels":{
       "team_uni":"Queen's University",
-      "team_num":"7063"
+      "team_num":"7063",
+      "players":{
+         "TealTeller":"STEAM_0:1:54289008",
+         "GxeN":"STEAM_1:0:59660306",
+         "Yamazaki":"STEAM_0:0:143937382",
+         "LazySheep":"STEAM_0:0:109138259",
+         "Haosong ye":"STEAM_0:0:286387508",
+         "salonika":"STEAM_0:1:92512050",
+         "shatterdoto":"STEAM_0:1:30574953",
+         "rock":"STEAM_0:1:71541223"
+      }
    },
-   "Concordia Esports":{  
+   "Concordia Esports":{
       "team_uni":"Concordia University (Quebec)",
-      "team_num":"4782"
+      "team_num":"4782",
+      "players":{
+         "Hyoeun":"STEAM_0:1:40284447",
+         "joshuadim":"STEAM_0:1:25106574",
+         "Lyntiglo":"STEAM_0:0:42691400",
+         "illitys":"STEAM_0:0:28944705",
+         "leumao":"STEAM_0:1:82016670",
+         "Michael D":"STEAM_0:0:43387883",
+         "Zicooo":"STEAM_0:1:92659301",
+         "whatevermonkas":"STEAM_0:1:89224430",
+         "UMR":"STEAM_0:0:73891203",
+         "AdmiralSnackbar":"STEAM_1:0:70465906",
+         "SerenityDota":"STEAM_0:0:92875566",
+         "AdmiralPonce":"STEAM_0:0:66391096",
+         "Kalamity":"STEAM_0:0:33391802",
+         "Xzanic":"STEAM_0:1:107195531",
+         "ysldota":"STEAM_0:1:46510540",
+         "Zamolxes":"STEAM_0:1:61464673"
+      }
    },
-   "McGill":{  
+   "McGill":{
       "team_uni":"McGill University",
-      "team_num":"4639"
+      "team_num":"4639",
+      "players":{
+         "JAGER":"STEAM_0:0:19465012",
+         "Toni":"STEAM_0:0:40400178",
+         "WifeStealer":"STEAM_0:1:42181384",
+         "lolser1337":"STEAM_0:1:66402705",
+         "jopotochny":"STEAM_0:0:41085631",
+         "Cookies are noobs":"STEAM_1:0:24944201"
+      }
    },
-   "RIT DOTA":{  
+   "RIT DOTA":{
       "team_uni":"Rochester Institute of Technology",
-      "team_num":"495"
+      "team_num":"495",
+      "players":{
+         "Ritztruegod":"STEAM_0:0:57530984",
+         "Wertwert765":"STEAM_0:0:28376510",
+         "Zanthous":"STEAM_0:1:44352086",
+         "Eradicate":"STEAM_0:0:58356952",
+         "Sizzle":"STEAM_0:1:47940633",
+         "doggie":"STEAM_0:0:53412086",
+         "R&D":"STEAM_0:0:53786477"
+      }
    },
-   "Eternal King Frankkie":{  
-      "team_uni":"State University of New York - Stony Brook University",
-      "team_num":"6269"
+   "Eternal King Frankkie":{
+      "team_uni":"State University of New York- Stony Brook University",
+      "team_num":"6269",
+      "players":{
+         "Darkraider":"STEAM_0:0:41751110",
+         "Shoe":"STEAM_0:1:65888639",
+         "irvin520":"STEAM_0:1:21959428",
+         "Frankie":"STEAM_0:1:98711983",
+         "\u300eYuushA\u300f":"STEAM_0:1:82728350",
+         "NoZom1":"STEAM_0:0:206829287"
+      }
    },
-   "RU Bus Drivers":{  
+   "RU BusDrivers":{
       "team_uni":"Rutgers University",
-      "team_num":"4285"
+      "team_num":"4285",
+      "players":{
+         "Stormsoldat":"STEAM_0:1:4903904",
+         "Lagcraft":"STEAM_0:1:88091527",
+         "Leftyy":"STEAM_0:0:48992927",
+         "Jahan":"STEAM_0:1:39405627",
+         "law":"STEAM_0:1:53957327"
+      }
    },
-   "UMCP Dota":{  
-      "team_uni":"University of Maryland, College Park",
-      "team_num":"223"
+   "UMCP Dota":{
+      "team_uni":"Universityof Maryland, College Park",
+      "team_num":"223",
+      "players":{
+         "slurm":"STEAM_0:1:58810237",
+         "magicianX":"STEAM_0:0:453639788",
+         "faezazizul":"STEAM_0:0:76076976",
+         "Crimzon":"STEAM_0:1:57925901",
+         "gabbana":"STEAM_0:0:153381216",
+         "Cygni":"STEAM_0:1:58229061",
+         "zttsee":"STEAM_0:1:50081798"
+      }
    },
-   "Duke Blue":{  
+   "Duke Blue":{
       "team_uni":"Duke University",
-      "team_num":"6860"
+      "team_num":"6860",
+      "players":{
+         "Fancy7Fully":"STEAM_0:0:86226037",
+         "yiran":"STEAM_1:1:72433247",
+         "Chundan3":"STEAM_0:1:64196134",
+         "imbandy":"STEAM_0:0:91452590",
+         "Abovelord":"STEAM_0:1:70205004",
+         "TreeOfLife":"STEAM_0:0:452535467"
+      }
    },
-   "WPI":{  
+   "WPI":{
       "team_uni":"Worcester Polytechnic Institute",
-      "team_num":"4493"
+      "team_num":"4493",
+      "players":{
+         "DongerClose":"STEAM_0:1:82811662",
+         "Pit":"STEAM_0:0:66579313",
+         "Dontpuntme":"STEAM_0:0:44941739",
+         "fuzZ":"STEAM_0:0:55931306",
+         "Rej3ted":"STEAM_0:0:62395851",
+         "polarbot":"STEAM_0:0:54687483",
+         "garett":"STEAM_0:0:23275791",
+         "AutumnLeaves":"STEAM_0:0:55175000",
+         "kireeti":"STEAM_0:0:196139480"
+      }
    },
-   "NYU Tandon":{  
+   "NYU Tandon":{
       "team_uni":"New York University",
-      "team_num":"6832"
+      "team_num":"6832",
+      "players":{
+         "kita":"STEAM_0:1:97255031",
+         "Peter733":"STEAM_0:0:50029670",
+         "dendi_123":"STEAM_0:0:163322172",
+         "Swilor10472":"STEAM_0:0:67207743",
+         "koloxite":"STEAM_0:1:87973680",
+         "BLSJ":"STEAM_0:1:49115204"
+      }
    },
-   "NU Esports Black":{  
+   "NU Esports Black":{
       "team_uni":"Northeastern University",
-      "team_num":"4436"
+      "team_num":"4436",
+      "players":{
+         "homeyjojo":"STEAM_0:0:36176364",
+         "FooSquash":"STEAM_1:1:70835711",
+         "Fell":"STEAM_0:0:54144101",
+         "Hismooth":"STEAM_0:0:60979394",
+         "Vitality":"STEAM_0:1:43645445",
+         "Winnie":"STEAM_0:1:452088918",
+         "Senya":"STEAM_0:1:147677807",
+         "Vino_7":"STEAM_0:0:52813254"
+      }
    },
-   "SMU mustangs":{  
+   "SMU mustangs":{
       "team_uni":"Southern Methodist University",
-      "team_num":"6814"
+      "team_num":"6814",
+      "players":{
+         "Ramenboyai":"STEAM_0:0:157984666",
+         "Quincy":"STEAM_0:1:180644116",
+         "Smu.Fate":"STEAM_0:1:58694295",
+         " Smile":"STEAM_0:0:64875023",
+         "Mortred":"STEAM_0:1:92047468",
+         "taiganoob":"STEAM_0:0:438969899"
+      }
    },
-   "The Chainfeeders":{  
+   "The Chainfeeders":{
       "team_uni":"University of Georgia",
-      "team_num":"6200"
+      "team_num":"6200",
+      "players":{
+         "Smack Daddy":"STEAM_0:1:49312055",
+         "What a Story Mark":"STEAM_0:0:31241877",
+         "raptor458":"STEAM_0:1:68439321",
+         "Pishtya":"STEAM_0:1:44150397",
+         "sharphunter":"STEAM_0:0:76561198091803219",
+         "Novak":"STEAM_0:1:70721773"
+      }
    },
-   "Georgia Tech":{  
+   "Georgia Tech":{
       "team_uni":"Georgia Institute of Technology",
-      "team_num":"125"
+      "team_num":"125",
+      "players":{
+         "Bartl3t":"STEAM_0:0:22045712",
+         "LedinToke":"STEAM_0:1:21065940",
+         "MrJake":"STEAM_0:0:44925772",
+         "SomethingGenuine":"STEAM_0:1:43979374",
+         "mole":"STEAM_0:1:113654884"
+      }
    },
-   "Crimson Guard":{  
+   "Crimson Guard":{
       "team_uni":"University of Alabama",
-      "team_num":"6692"
+      "team_num":"6692",
+      "players":{
+         "Bunborn":"STEAM_0:0:52518909",
+         "Large Discharge":"STEAM_0:1:38656953",
+         "Gigaboggie":"STEAM_0:0:40955436",
+         "Aung":"STEAM_0:1:192593989",
+         "EddyTheSpaghettiYeti":"STEAM_0:0:103996674",
+         "ABunchOfTrees":"STEAM_0:1:50164943",
+         "EmberIsland":"STEAM_0:1:90933653",
+         "Cornyboy24":"STEAM_0:1:102427821"
+      }
    },
-   "UT Austin Longhorns":{  
+   "UT Austin Longhorns":{
       "team_uni":"University of Texas at Austin",
-      "team_num":"6623"
+      "team_num":"6623",
+      "players":{
+         "maxemoe":"STEAM_0:1:23575088",
+         "HydroSK":"STEAM_0:1:61267234",
+         "Wonder":"STEAM_0:1:47740781",
+         "merman":"STEAM_1:0:58153829",
+         "azn72":"STEAM_0:0:19065727",
+         "Meo":"STEAM_0:1:78086958"
+      }
    },
-   "Team Knightmare":{  
+   "Team Knightmare":{
       "team_uni":"University of Central Florida",
-      "team_num":"1138"
+      "team_num":"1138",
+      "players":{
+         "Redmaster31":"STEAM_0:1:64875982",
+         "Crow_":"STEAM_0:0:33421113",
+         "semi-noob":"STEAM_0:1:51672107",
+         "Chromos64":"STEAM_0:0:86358021",
+         "xdwayoflife":"STEAM_0:1:192163174",
+         "Lizzah":"STEAM_0:0:37325017",
+         "Westonsammy":"STEAM_0:0:46163409",
+         "skkip":"STEAM_0:1:38275193"
+      }
    },
-   "The Mean Green ":{  
+   "The Mean Green ":{
       "team_uni":"University of North Texas",
-      "team_num":"7371"
+      "team_num":"7371",
+      "players":{
+         "nartuo1997":"STEAM_0:0:42655712",
+         "Merktality":"STEAM_0:0:47923114",
+         "ToskaUNT":"STEAM_0:0:28272473",
+         "sadgoat":"STEAM_0:1:59365224",
+         "Ramenn":"STEAM_0:1:214980326",
+         "bigbeau":"STEAM_0:1:40318466",
+         "TREYWAY":"STEAM_0:0:71253809"
+      }
    },
-   "Dagon Five":{  
+   "Dagon Five":{
       "team_uni":"University of Texas At Arlington",
-      "team_num":"6476"
+      "team_num":"6476",
+      "players":{
+         "khanhpiti":"STEAM_0:1:63058785",
+         "Ace1k153":"STEAM_0:0:56450241",
+         "mTP":"STEAM_0:0:40716312",
+         "Amoght23":"STEAM_0:1:65425066",
+         "\u03a3L\u03a3M\u03a3\u041f\u01ac\u2122":"STEAM_0:1:53048546",
+         "Phoenix13":"STEAM_0:0:146738705",
+         "kappameister":"STEAM_1:0:54122930",
+         "4AM.Puku":"STEAM_0:0:88211810"
+      }
    },
-   "Michigan Wolverines":{  
+   "Michigan Wolverines":{
       "team_uni":"University of Michigan, Ann Arbor",
-      "team_num":"839"
+      "team_num":"839",
+      "players":{
+         "Tangy":"STEAM_0:0:80310698",
+         "Dragos":"STEAM_0:1:29183880",
+         "Yggdrasil":"STEAM_0:1:51900704",
+         "KebnTheFirst":"STEAM_0:0:41044906",
+         "godog_Burnotking":"STEAM_0:1:215078540",
+         "SNFairy":"STEAM_0:1:75531711",
+         "RagefulDuck":"STEAM_0:1:40822425"
+      }
    },
-   "Ohio State University":{  
+   "Ohio State University":{
       "team_uni":"Ohio State University",
-      "team_num":"4690"
+      "team_num":"4690",
+      "players":{
+         "liquidmatt":"STEAM_0:0:77360873",
+         "Ori-":"STEAM_0:0:60802059",
+         "aikster":"STEAM_0:1:48617814",
+         "Swamp_Donster":"STEAM_0:1:59636053",
+         "megatkarok":"STEAM_1:1:94935322",
+         "RemyDTV":"STEAM_0:0:25927084"
+      }
    },
-   "Dota at UIC A":{  
+   "Dota at UIC A":{
       "team_uni":"University of Illinois at Chicago",
-      "team_num":"4326"
+      "team_num":"4326",
+      "players":{
+         "PkDota":"STEAM_0:0:81790473",
+         "SammY-":"STEAM_0:1:64552639",
+         "gocolts12":"STEAM_0:0:40840407",
+         "deboi":"STEAM_0:1:37839453",
+         "Turtl3n3ck":"STEAM_0:0:76561198080249766",
+         "LaZee":"STEAM_0:0:65760914",
+         "xchen225":"STEAM_0:1:89812537"
+      }
    },
-   "UIUC Illini Esports":{  
+   "UIUC Illini Esports":{
       "team_uni":"University of Illinois at Urbana-Champaign",
-      "team_num":"6561"
+      "team_num":"6561",
+      "players":{
+         "yuko":"STEAM_0:0:1012015165",
+         "Mr. Feed":"STEAM_0:0:171015872",
+         "MBG":"STEAM_0:1:33302450",
+         "Luthelion":"STEAM_0:0:53789871",
+         "ZealoT":"STEAM_0:1:180529045",
+         "mute2009":"STEAM_0:0:828021",
+         "sabin":"STEAM_0:0:46802740"
+      }
    },
-   "Purdue_University":{  
+   "Purdue_University":{
       "team_uni":"Purdue University",
-      "team_num":"7542"
+      "team_num":"7542",
+      "players":{
+         "EZLife":"STEAM_0:1:70455211",
+         "Lumamaster":"STEAM_0:1:47941604",
+         "regulus":"STEAM_0:1:65011204",
+         "vix":"STEAM_0:1:75548867",
+         "Pixels":"STEAM_0:1:23721528",
+         "KG.Oscillation":"STEAM_0:0:85621155",
+         "TreeHard":"STEAM_0:1:64525041",
+         "TJ MinMaxx":"STEAM_0:1:53888130",
+         "Garg":"STEAM_0:0:79623142",
+         "spud":"STEAM_0:0:76561198167216344",
+         "ballbag":"STEAM_0:0:40369917",
+         "eorlando":"STEAM_0:0:102296609",
+         "Agentstweb":"STEAM_0:1:158261608",
+         "MinEQ":"STEAM_1:1:99250777",
+         "webberjiang":"STEAM_0:0:62414866"
+      }
    },
-   "Western Michigan - A":{  
+   "Western Michigan - A":{
       "team_uni":"Western Michigan University",
-      "team_num":"5930"
+      "team_num":"5930",
+      "players":{
+         "mossiee":"STEAM_0:0:60200979",
+         "mobyte":"STEAM_0:0:60919594",
+         "Scrandy":"STEAM_0:1:89289123",
+         "Ko":"STEAM_0:1:79628099",
+         "XLR8":"STEAM_0:1:95619941",
+         "Psy.D":"STEAM_0:0:47704206",
+         "Shep":"STEAM_0:1:40604403",
+         "aku525":"STEAM_0:0:76561198062082842",
+         "Toto Neorest":"STEAM_0:0:62080310",
+         "frostykitten":"STEAM_0:1:147660603",
+         "mcallan92":"STEAM_0:0:95651915"
+      }
    },
-   "Miami University Esports Club":{  
+   "Miami University Esports Club":{
       "team_uni":"Miami University",
-      "team_num":"4278"
+      "team_num":"4278",
+      "players":{
+         "zelderan":"STEAM_0:0:51304214",
+         "ansupercow":"STEAM_0:0:74833960",
+         "Xienomen":"STEAM_0:1:85881258",
+         "SMASHING":"STEAM_0:1:116544238",
+         "TheCrimsonChair":"STEAM_0:1:50995922",
+         "alehahndro":"STEAM_0:1:51276427",
+         "Brownms9":"STEAM_0:1:69086471",
+         "patrick8991":"STEAM_0:0:57090490",
+         "MrRogerRoger":"STEAM_0:0:41624548",
+         "KegDotA":"STEAM_0:0:61397534"
+      }
    },
-   "U of Wisconsin - Madison":{  
+   "U of Wisconsin - Madison":{
       "team_uni":"University of Wisconsin - Madison",
-      "team_num":"90"
+      "team_num":"90",
+      "players":{
+         "Chem":"STEAM_0:0:40319779",
+         "momowong":"STEAM_0:0:102181610",
+         "DeCarnage":"STEAM_0:1:70846358",
+         "Chrohny":"STEAM_0:0:166061082",
+         "kc123":"STEAM_0:0:40835635"
+      }
    },
-   "UBC Premier Team ":{  
+   "UBC Premier Team ":{
       "team_uni":"University of British Columbia",
-      "team_num":"6697"
+      "team_num":"6697",
+      "players":{
+         "xSLAY3RL0Lx":"STEAM_0:1:55611171",
+         "Up":"STEAM_0:0:111258603",
+         "MrVDota2":"STEAM_0:1:70577514",
+         "Panders":"STEAM_0:0:42085479",
+         "SageDragon":"STEAM_0:0:459595430",
+         "yungbratz":"STEAM_0:1:15002460",
+         "HookRiNo":"STEAM_0:0:136636129"
+      }
    },
-   "MMR ASSASSIN":{  
+   "MMR ASSASSIN":{
       "team_uni":"University of Iowa",
-      "team_num":"4145"
+      "team_num":"4145",
+      "players":{
+         "vajraqian":"STEAM_0:1:129232927",
+         "wzc3106":"STEAM_0:1:75503478",
+         "82K":"STEAM_0:0:137202872",
+         "KuriyaMa":"STEAM_0:0:69846596",
+         "EEgYellow":"STEAM_0:0:70853640",
+         "NightshadeKira":"STEAM_0:1:90368301"
+      }
    },
-   "Arizona State University ":{  
+   "ArizonaState University ":{
       "team_uni":"Arizona State University",
-      "team_num":"4584"
+      "team_num":"4584",
+      "players":{
+         "Killian":"STEAM_0:0:85140975",
+         "kvo":"STEAM_0:1:31647113",
+         "DoubleUps":"STEAM_0:0:2985883",
+         "PMAdota":"STEAM_0:0:39790680",
+         "zpz":"STEAM_0:0:201719501"
+      }
    },
-   "Calgary Dinos":{  
+   "Calgary Dinos":{
       "team_uni":"University of Calgary",
-      "team_num":"4552"
+      "team_num":"4552",
+      "players":{
+         "luusydh":"STEAM_0:1:43364464",
+         "Schroedinger":"STEAM_0:0:46111473",
+         "Branx":"STEAM_0:0:41012714",
+         "AsianWolf":"STEAM_0:0:33816174",
+         "Truckwaffle":"STEAM_0:1:40859403"
+      }
    },
-   "CougarDota":{  
+   "CougarDota":{
       "team_uni":"Washington State University",
-      "team_num":"7268"
+      "team_num":"7268",
+      "players":{
+         "D3mon_D3moniaque":"STEAM_0:1:186945837",
+         "jihui.sheng":"STEAM_0:0:303802819",
+         "Saber_Inori":"STEAM_0:0:44192585",
+         "Alonso":"STEAM_0:0:194621324",
+         "751068585":"STEAM_1:0:68401810",
+         "achiuuu":"STEAM_0:0:122837852",
+         "dotaallstarzhen":"STEAM_0:0:82486058"
+      }
    },
-   "Washington eSports Dota":{  
+   "Washington eSports Dota":{
       "team_uni":"University of Washington",
-      "team_num":"4693"
+      "team_num":"4693",
+      "players":{
+         "statiC.tyrant":"STEAM_0:0:172618555",
+         "palmtop":"STEAM_0:1:40688499",
+         "RaiN*":"STEAM_0:1:97456629",
+         "awaifuadaykeepsocietyaway":"STEAM_0:0:45851790",
+         "CanadianSlayer":"STEAM_0:1:57615576",
+         "waciatz":"STEAM_0:0:98875779",
+         "Joseph Ballin":"STEAM_0:0:140434123",
+         "FluffyJay1":"STEAM_0:0:30412540",
+         "yanx415":"STEAM_1:0:65829851",
+         "Calamity":"STEAM_0:0:4275180690120151900161025",
+         "vuong":"STEAM_0:0:76561198080303085",
+         "zorrlost":"STEAM_0:1:33425197",
+         "kuailly":"STEAM_0:0:147358212",
+         "BlizzardDota":"STEAM_0:0:57837202"
+      }
    },
-   "Slithery Slimy Sexy Slugs":{  
-      "team_uni":"University of California, Santa Cruz",
-      "team_num":"6944"
+   "Slithery Slimy Sexy Slugs":{
+      "team_uni":"University of California, SantaCruz",
+      "team_num":"6944",
+      "players":{
+         "atp":"STEAM_0:0:17914737",
+         "poxy":"STEAM_0:1:48199334",
+         "Gakkilove":"STEAM_0:1:69420223",
+         "Inquisitor35":"STEAM_1:0:41852363",
+         "Iroha-":"STEAM_0:1:67283529",
+         "benbird":"STEAM_0:1:87848324",
+         "Babag":"STEAM_0:1:52874708"
+      }
    },
-   "Cal Dota":{  
+   "Cal Dota":{
       "team_uni":"University of California, Berkeley",
-      "team_num":"830"
+      "team_num":"830",
+      "players":{
+         "Karapp0":"STEAM_0:0:34624377",
+         "endure":"STEAM_0:0:40890861",
+         "Cirno":"STEAM_0:0:71668188",
+         "fry":"STEAM_0:1:96774513",
+         "Lacrimosa":"STEAM_0:1:51186230",
+         "OMEGALUL":"STEAM_0:0:440963194",
+         "ashhhhh":"STEAM_0:0:41790625"
+      }
    },
-   "UC Davis Aggies":{  
+   "UC Davis Aggies":{
       "team_uni":"University of California, Davis",
-      "team_num":"1310"
+      "team_num":"1310",
+      "players":{
+         "Jett":"STEAM_0:0:83853968",
+         "lucky57":"STEAM_0:0:51763924",
+         "ch0c0b0":"STEAM_0:1:43741092",
+         "Biology":"STEAM_0:1:74724545",
+         "alexcyh2":"STEAM_0:1:80868163",
+         "Xykon":"STEAM_0:1:33644515",
+         "mzpig":"STEAM_0:0:86477852",
+         "BiologyFreak":"STEAM_1:1:54100488",
+         "Whiplash":"STEAM_1:1:50755260",
+         "edwinzyh":"STEAM_0:0:119541025",
+         "keyoukewu":"STEAM_0:0:454595731"
+      }
    },
-   "UCLA - Blue":{  
+   "UCLA - Blue":{
       "team_uni":"University of California, Los Angeles",
-      "team_num":"136"
+      "team_num":"136",
+      "players":{
+         "leafeator":"STEAM_0:1:19597054",
+         "jPinto":"STEAM_0:1:43312665",
+         "Servantsaber ":"STEAM_0:0:55506470",
+         "DTC":"STEAM_0:1:62812872",
+         "HiFY":"STEAM_0:1:99293161",
+         "HAKATHEONE":"STEAM_0:0:207292867",
+         "The_ManSackPack":"STEAM_1:0:136384814",
+         "UCLAVintage":"STEAM_0:0:41890139"
+      }
    },
-   "SJSU Grey":{  
+   "SJSU Grey":{
       "team_uni":"San Jose State University",
-      "team_num":"6532"
+      "team_num":"6532",
+      "players":{
+         "Darto":"STEAM_0:0:62714159",
+         "Reynaldojahja":"STEAM_0:0:62836412",
+         "PantheraTigrisTigris":"STEAM_0:0:50645882",
+         "FrOsT_BiTe":"STEAM_0:1:90560532",
+         "Drevative":"STEAM_0:0:76436333",
+         "chriswiesan":"STEAM_0:1:95225587",
+         "Ch1pl":"STEAM_0:1:22743951",
+         "roadtoimmortal":"STEAM_0:0:64749576",
+         "alwinargono":"STEAM_0:1:73069305",
+         "gummybarez":"STEAM_0:0:42412100"
+      }
    },
-   "UCSD Churro":{  
-      "team_uni":"Universityof California, San Diego",
-      "team_num":"7323"
+   "UCSD Churro":{
+      "team_uni":"University of California, San Diego",
+      "team_num":"7323",
+      "players":{
+         "Shuaboo":"STEAM_0:1:30138015",
+         "WMSical":"STEAM_0:1:48848034",
+         "Gus Nguyen":"STEAM_0:1:50586904",
+         "TeauX":"STEAM_0:1:78963769",
+         "ATTILA":"STEAM_0:0:43370035",
+         "reignofspirit":"STEAM_0:1:73579029",
+         "TMK":"STEAM_0:0:42466617",
+         "Wakerider":"STEAM_0:1:76552218",
+         "udatchi":"STEAM_0:0:199752483"
+      }
    },
-   "Santa Barbara Shark Rats":{  
+   "Santa Barbara Shark Rats":{
       "team_uni":"University of California, Santa Barbara",
-      "team_num":"6502"
+      "team_num":"6502",
+      "players":{
+         "shadowtake":"STEAM_0:0:45853222",
+         "formannewyork":"STEAM_1:0:39596385",
+         "jimbowept":"STEAM_0:1:54015583",
+         "Breadman":"STEAM_0:1:55198379",
+         "Glum":"STEAM_0:1:69702296",
+         "KiraSkylar":"STEAM_0:0:44220061",
+         "Sup":"STEAM_0:0:29043359",
+         "NAsLastHope":"STEAM_0:0:54141270"
+      }
    },
-   "New Blood. Same Shitters":{  
+   "New Blood. Same Shitters":{
       "team_uni":"California Polytechnic State University, San Luis Obispo",
-      "team_num":"7644"
+      "team_num":"7644",
+      "players":{
+         "gemboys":"STEAM_0:1:41749598",
+         "ItzCharl13":"STEAM_0:0:142247422",
+         "Lucas":"STEAM_0:0:60694455",
+         "Ewok":"STEAM_0:0:87040394",
+         "gunnardota2":"STEAM_0:1:167057152",
+         "elecdragon96":"STEAM_1:0:33816930",
+         "Agent X":"STEAM_0:0:87495223",
+         "trunkster":"STEAM_0:1:51319000"
+      }
    }
 }
