@@ -13,28 +13,41 @@ data2 = r2.text
 soup2 = BeautifulSoup(data2, features="html.parser")
 teamsD2 = soup2.findAll("div", {"class": "match-team"})
 
-def printPlayers(team_num):
+def printPlayerInfo(players):
+  for player in players:
+    link = player.find('a')
+    player_name = link.text
+    print(player_name) 
+
+    title = player.get('title')
+    index = title.find("STEAM")
+    steam_id = title[index:]
+    print(steam_id)
+  return
+
+def getPlayers(team_num):
   url = "https://cstarleague.com/dota2/teams/" + str(team_num)
   r = requests.get(url)
   data = r.text
   soup = BeautifulSoup(data, features="html.parser")
   players = soup.findAll("span", {"class": "tool-tip"})
-  print(players)
+  printPlayerInfo(players)
+  print("")
   return
 
 def printTeamInfo(teams):
   for team in teams:
     team_uni = team.find("p", {"class": "truncate-text small"})
-    # print("TEAM UNIVERSITY: " + team_uni.text)
+    print("TEAM UNIVERSITY: " + team_uni.text)
     h3_container = team.find("h3")
     team_name = h3_container.text
     print("TEAM NAME: " + team_name)
     link = h3_container.find("a")
     team_num = link.get('href')
     team_num = team_num[13:]
-    # print("TEAM NUMBER: " + team_num)
+    print("TEAM NUMBER: " + team_num)
     # print("")
-    printPlayers(team_num)
+    getPlayers(team_num)
   return
 
 print('-' * 12)
