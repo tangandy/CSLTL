@@ -1,0 +1,186 @@
+{  
+   "Carleton Ravens Dota":{  
+      "team_uni":"Carleton University",
+      "team_num":"4510"
+   },
+   "Uoft Underdogs":{  
+      "team_uni":"University of Toronto",
+      "team_num":"6640"
+   },
+   "MCMASTER DOTA ":{  
+      "team_uni":"McMaster University",
+      "team_num":"6704"
+   },
+   "Ryerson Esports Dota ":{  
+      "team_uni":"Ryerson University",
+      "team_num":"7390"
+   },
+   "Western University Mustang":{  
+      "team_uni":"Western University",
+      "team_num":"5585"
+   },
+   "Gaels":{  
+      "team_uni":"Queen's University",
+      "team_num":"7063"
+   },
+   "Concordia Esports":{  
+      "team_uni":"Concordia University (Quebec)",
+      "team_num":"4782"
+   },
+   "McGill":{  
+      "team_uni":"McGill University",
+      "team_num":"4639"
+   },
+   "RIT DOTA":{  
+      "team_uni":"Rochester Institute of Technology",
+      "team_num":"495"
+   },
+   "Eternal King Frankkie":{  
+      "team_uni":"State University of New York - Stony Brook University",
+      "team_num":"6269"
+   },
+   "RU Bus Drivers":{  
+      "team_uni":"Rutgers University",
+      "team_num":"4285"
+   },
+   "UMCP Dota":{  
+      "team_uni":"University of Maryland, College Park",
+      "team_num":"223"
+   },
+   "Duke Blue":{  
+      "team_uni":"Duke University",
+      "team_num":"6860"
+   },
+   "WPI":{  
+      "team_uni":"Worcester Polytechnic Institute",
+      "team_num":"4493"
+   },
+   "NYU Tandon":{  
+      "team_uni":"New York University",
+      "team_num":"6832"
+   },
+   "NU Esports Black":{  
+      "team_uni":"Northeastern University",
+      "team_num":"4436"
+   },
+   "SMU mustangs":{  
+      "team_uni":"Southern Methodist University",
+      "team_num":"6814"
+   },
+   "The Chainfeeders":{  
+      "team_uni":"University of Georgia",
+      "team_num":"6200"
+   },
+   "Georgia Tech":{  
+      "team_uni":"Georgia Institute of Technology",
+      "team_num":"125"
+   },
+   "Crimson Guard":{  
+      "team_uni":"University of Alabama",
+      "team_num":"6692"
+   },
+   "UT Austin Longhorns":{  
+      "team_uni":"University of Texas at Austin",
+      "team_num":"6623"
+   },
+   "Team Knightmare":{  
+      "team_uni":"University of Central Florida",
+      "team_num":"1138"
+   },
+   "The Mean Green ":{  
+      "team_uni":"University of North Texas",
+      "team_num":"7371"
+   },
+   "Dagon Five":{  
+      "team_uni":"University of Texas At Arlington",
+      "team_num":"6476"
+   },
+   "Michigan Wolverines":{  
+      "team_uni":"University of Michigan, Ann Arbor",
+      "team_num":"839"
+   },
+   "Ohio State University":{  
+      "team_uni":"Ohio State University",
+      "team_num":"4690"
+   },
+   "Dota at UIC A":{  
+      "team_uni":"University of Illinois at Chicago",
+      "team_num":"4326"
+   },
+   "UIUC Illini Esports":{  
+      "team_uni":"University of Illinois at Urbana-Champaign",
+      "team_num":"6561"
+   },
+   "Purdue_University":{  
+      "team_uni":"Purdue University",
+      "team_num":"7542"
+   },
+   "Western Michigan - A":{  
+      "team_uni":"Western Michigan University",
+      "team_num":"5930"
+   },
+   "Miami University Esports Club":{  
+      "team_uni":"Miami University",
+      "team_num":"4278"
+   },
+   "U of Wisconsin - Madison":{  
+      "team_uni":"University of Wisconsin - Madison",
+      "team_num":"90"
+   },
+   "UBC Premier Team ":{  
+      "team_uni":"University of British Columbia",
+      "team_num":"6697"
+   },
+   "MMR ASSASSIN":{  
+      "team_uni":"University of Iowa",
+      "team_num":"4145"
+   },
+   "Arizona State University ":{  
+      "team_uni":"Arizona State University",
+      "team_num":"4584"
+   },
+   "Calgary Dinos":{  
+      "team_uni":"University of Calgary",
+      "team_num":"4552"
+   },
+   "CougarDota":{  
+      "team_uni":"Washington State University",
+      "team_num":"7268"
+   },
+   "Washington eSports Dota":{  
+      "team_uni":"University of Washington",
+      "team_num":"4693"
+   },
+   "Slithery Slimy Sexy Slugs":{  
+      "team_uni":"University of California, Santa Cruz",
+      "team_num":"6944"
+   },
+   "Cal Dota":{  
+      "team_uni":"University of California, Berkeley",
+      "team_num":"830"
+   },
+   "UC Davis Aggies":{  
+      "team_uni":"University of California, Davis",
+      "team_num":"1310"
+   },
+   "UCLA - Blue":{  
+      "team_uni":"University of California, Los Angeles",
+      "team_num":"136"
+   },
+   "SJSU Grey":{  
+      "team_uni":"San Jose State University",
+      "team_num":"6532"
+   },
+   "UCSD Churro":{  
+      "team_uni":"Universityof California, San Diego",
+      "team_num":"7323"
+   },
+   "Santa Barbara Shark Rats":{  
+      "team_uni":"University of California, Santa Barbara",
+      "team_num":"6502"
+   },
+   "New Blood. Same Shitters":{  
+      "team_uni":"California Polytechnic State University, San Luis Obispo",
+      "team_num":"7644"
+   }
+}
