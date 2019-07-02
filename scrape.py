@@ -3,13 +3,13 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-url = "https://cstarleague.com/dota2/standings?division=Varsity&year=2018-2019"
+url = "https://cstarleague.com/dota2/standings?division=Varsity"
 r = requests.get(url)
 data = r.text
 soup = BeautifulSoup(data, features="html.parser")
 teamsD1 = soup.findAll("div", {"class": "match-team"})
 
-url2 = "https://cstarleague.com/dota2/standings?division=Junior+Varsity&year=2018-2019"
+url2 = "https://cstarleague.com/dota2/standings?division=Junior+Varsity"
 r2 = requests.get(url2)
 data2 = r2.text
 soup2 = BeautifulSoup(data2, features="html.parser")
