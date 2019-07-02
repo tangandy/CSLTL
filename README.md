@@ -1,6 +1,6 @@
 # TODO:
 
-* Invite link
+* Pretty arguments recieved
 
 * Fix exception handling
 
